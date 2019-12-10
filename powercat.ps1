@@ -1,4 +1,4 @@
-function powercat
+function powwwwercat
 {
   param(
     [alias("Client")][string]$c="",
